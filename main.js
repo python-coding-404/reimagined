@@ -5,7 +5,7 @@ Hello is free software: you can redistribute it and/or modify it under the terms
 
 Hello is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with Foobar. If not, see <https://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License along with Hello. If not, see <https://www.gnu.org/licenses/>.
 */
 
 console.log('Alex Joseph., hereby disclaims all copyright interest in the program “Hello” written by Alex Joseph.')
