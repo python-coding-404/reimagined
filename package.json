@@ -1,0 +1,19 @@
+{
+  "name": "reim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/python-coding-404/reimagined.git"
+  },
+  "author": "joseph",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/python-coding-404/reimagined/issues"
+  },
+  "homepage": "https://github.com/python-coding-404/reimagined#readme"
+}
