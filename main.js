@@ -7,9 +7,9 @@ Hello is distributed in the hope that it will be useful, but WITHOUT ANY WARRANT
 
 You should have received a copy of the GNU General Public License along with Hello. If not, see <https://www.gnu.org/licenses/>.
 */
-
+let lol = require("./lol.js")
 console.log('Alex Joseph., hereby disclaims all copyright interest in the program “Hello” written by Alex Joseph.')
-
+console.log(lol.lol)
 
 console.log("signature of Alex Joseph 5/9/2022")
 console.log("Alex Joseph, Programmer")
